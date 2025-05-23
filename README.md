@@ -1,4 +1,4 @@
-# 👩‍💻 About Me
+# 👩‍💻 To Know About Me
 
 Hi! I'm **Sayani**, a passionate undergraduate student pursuing **B.Sc. in Digital Forensics**, with a strong foundation in **Ethical Hacking** and **Cybersecurity**. I enjoy exploring new technologies, solving real-world digital investigation problems, and working on hands-on offensive and defensive security tasks.
 
@@ -28,12 +28,6 @@ Hi! I'm **Sayani**, a passionate undergraduate student pursuing **B.Sc. in Digit
 - 🧪 Research in AI-powered cybersecurity solutions.
 
 ---
-
-## 📫 Let's Connect
-
-- 🌐 GitHub: [your-github-username](https://github.com/sayani-030205)
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/sayanimaity/)
-
 
 ---
 
