@@ -16,7 +16,7 @@ Graduation session :-
   - Network Penetration Testing (**NPT**)  
   - Web Application Penetration Testing (**WAPT**)  
   - Vulnerability Assessment and Penetration Testing (**VAPT**)
-- 🐍 **Python Programming** – Scripting, automation, data parsing, and tool development.
+- 🐍 **Python Programming** – Scripting 
 - 🤖 **Machine Learning** – Applied ML in cybersecurity use cases.
 - 📱 **Android Security** – Static and dynamic analysis of Android applications.
 - 🌐 **Web Security** – OWASP Top 10, bug bounty methodology.
