@@ -3,7 +3,7 @@
 Hi! I'm **Sayani**, a passionate undergraduate student pursuing **B.Sc. in Digital Forensics**, with a strong foundation in **Ethical Hacking** and **Cybersecurity** from **ISOEH (Indian School Of Ethical Hacking** . I enjoy exploring new technologies, solving real-world digital investigation problems, and working on hands-on offensive and defensive security tasks.
 
 ---
-session :- 
+Graduation session :- 
 **2023-2026**
 
 ---
