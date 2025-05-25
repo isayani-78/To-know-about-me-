@@ -32,5 +32,5 @@ Graduation session :-
 - 🧪 Research in AI-powered cybersecurity solutions.
 
 ---
- *“Digital Forensics isn’t just about finding the data – it’s about telling the story behind it.”*
+ *“Digital Forensics🔍 isn’t just about finding the data💻 – it’s about telling the story behind it.”*
 
