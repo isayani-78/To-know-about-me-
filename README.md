@@ -5,6 +5,8 @@ Hi! I'm **Sayani**, a passionate undergraduate student pursuing **B.Sc. in Digit
 ---
 Graduation session :- 
 **2023-2026**
+SGPA Points :-
+**8.50**
 
 ---
 
