@@ -2,7 +2,7 @@
 
 # 👩‍💻 To Know About Me
 
-Hi! I'm **Sayani**, a passionate undergraduate student pursuing **B.Sc. in Digital Forensics**, with a strong foundation in **Ethical Hacking** and **Cybersecurity** from **ISOEH (Indian School Of Ethical Hacking** . I enjoy exploring new technologies, solving real-world digital investigation problems, and working on hands-on offensive and defensive security tasks.
+Hii! I’m **Sayani**, a **CEH (Certified Ethical Hacker) v13 AI Certified** undergraduate student pursuing **B.Sc. in Digital Forensics**, with a strong foundation in **Ethical Hacking and Cybersecurity**. Trained at **ISOEH (Indian School of Ethical Hacking)**, I’m passionate about solving real-world security challenges through hands-on penetration testing, digital investigations, and both offensive and defensive security practices. I enjoy exploring new tools, analyzing attack techniques, and continuously building practical skills to better understand and secure modern systems.
 
 ---
 Graduation session :- 
